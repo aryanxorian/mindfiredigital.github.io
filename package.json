@@ -2,6 +2,7 @@
   "name": "mf-open-source",
   "version": "0.1.0",
   "private": true,
+  "type" :"module",
   "scripts": {
     "dev": "next dev",
     "build": "next build && touch ./docs/.nojekyll",
@@ -21,6 +22,7 @@
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
+    "sitemap": "^7.1.1",
     "tailwind-merge": "^1.14.0"
   },
   "devDependencies": {

@@ -3,12 +3,32 @@
     "title": "react canvas editor",
     "shortDescription": "Multipage document editing in React with Canvas.",
     "githubUrl": "https://github.com/mindfiredigital/react-canvas-editor",
-    "documentationUrl": "https://mindfiredigital.github.io/react-canvas-editor"
+    "documentationUrl": "https://mindfiredigital.github.io/react-canvas-editor",
+    "filterBy": ["Artificial Intelligence / Machine Learning","React", "Typescript", "Next.js"],
+    "contributors":[{"name":"Sushanta", "githubUsername": "aryanxorian"}]
   },
   {
     "title": "canvas editor",
     "shortDescription": "A Canvas Editor project builds upon the canvas-editor-plugin.",
     "githubUrl": "https://github.com/mindfiredigital/canvas-editor",
-    "documentationUrl": "https://mindfiredigital.github.io/canvas-editor"
+    "documentationUrl": "https://mindfiredigital.github.io/canvas-editor",
+    "filterBy": ["react", "Typescript", "Next.js"],
+    "contributors":[{"name":"Sushanta", "githubUsername": "aryanxorian"}]
+  },
+  {
+    "title": "nft marketplace",
+    "shortDescription": "A multi-chain platform for fans to connect with their favorite celebrities.",
+    "githubUrl": "https://github.com/mindfiredigital/nft-marketplace",
+    "documentationUrl": "https://mindfiredigital.github.io/nft-marketplace",
+    "filterBy": ["Artificial Intelligence / Machine Learning","react", "typescript", "Next.js"],
+    "contributors":[{"name":"Sushanta", "githubUsername": "aryanxorian"}]
+  },
+  {
+    "title": "fmdapi node weaver",
+    "shortDescription": "A tool for developers to integrate multi page document editors.",
+    "githubUrl": "https://github.com/mindfiredigital/fmdapi-node-weaver",
+    "documentationUrl": "https://mindfiredigital.github.io/fmdapi-node-weaver",
+    "filterBy": ["Blockchain","react", "Typescript", "Next.js"],
+    "contributors":[{"name":"Sushanta", "githubUsername": "aryanxorian"}]
   }
 ]
